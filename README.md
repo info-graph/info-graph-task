@@ -46,5 +46,5 @@
 
 Here’s a quick preview of the project in action:
 
-![Project Demo](assets/demo.gif)
+![Project Demo](/demo.gif)
 
