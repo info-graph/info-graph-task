@@ -1,4 +1,9 @@
 # info-graph-task
+### Project Preview
+
+Here’s a quick preview of the project in action:
+
+![Project Demo](/demo.gif)
 
 ## How to Run the Project
 
@@ -42,9 +47,5 @@
 
 - Make sure you include the required `.env` files in both `backend` and `frontend` directories before running the project.
 
-### Project Preview
 
-Here’s a quick preview of the project in action:
-
-![Project Demo](/demo.gif)
 
