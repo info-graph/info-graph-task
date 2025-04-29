@@ -36,7 +36,7 @@ Here’s a quick preview of the project in action:
    ```
 2. Install the dependencies:
    ```bash
-   npm install
+   npm install or npm install --force
    ```
 3. Start the frontend development server:
    ```bash
